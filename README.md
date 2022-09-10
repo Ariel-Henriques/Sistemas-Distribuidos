@@ -1,6 +1,6 @@
 # Sistemas-Distribuidos
 
-trabalho de Sistemas Distribuídos do Curso de Ciências da Computação(UERJ) - 2022.2
+Trabalho de Sistemas Distribuídos do Curso de Ciências da Computação(UERJ) - 2022.2
 
 Como Executar
 
