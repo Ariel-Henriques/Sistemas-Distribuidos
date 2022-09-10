@@ -2,7 +2,7 @@
 
 Trabalho de Sistemas Distribuídos do Curso de Ciências da Computação(UERJ) - 2022.2
 
-###Como Executar
+Como Executar
 
 <ol>
     1. Funcionando somente em Linux e com o Python2</li>
