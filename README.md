@@ -6,9 +6,12 @@ Como Executar
 
 <ol>
     1. Funcionando somente em Linux e com o Python2</li>
+</ol>
+<ol>
     2. Antes de executar o arquivo ".py", digite o seguinte comando no terminal Linux:
 
     export PYDFHOME={caminho onde esta o diretorio da sucuri }
+</ol>
 <ol>
     3. Para executar o arquivo ".py" digite o seguinte comando utilizando esta estrutura:
     
