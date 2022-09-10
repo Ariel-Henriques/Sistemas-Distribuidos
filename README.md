@@ -1,6 +1,7 @@
 # Sistemas-Distribuidos
 
-#trabalho de Sistemas Distribuídos do Curso de Ciências da Computação(UERJ) - 2021.1
+trabalho de Sistemas Distribuídos do Curso de Ciências da Computação(UERJ) - 2022.2
+
 Como Executar
 
     Funcionando somente em Linux e com o Python2
