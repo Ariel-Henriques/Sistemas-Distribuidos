@@ -12,7 +12,6 @@ Como Executar
 </ol>
     export PYDFHOME={caminho onde esta o diretorio da sucuri }
 <ol>
-    3. Para executar o arquivo ".py" digite o seguinte comando utilizando esta estrutura:</li>
-
+    3. Para executar o arquivo ".py" digite o seguinte comando utilizando esta estrutura:
     python {nome do arquivo ".py"}.py {número de workers desejado} {nome do arquivo ".txt" a ser lido}.txt
 </ol>
