@@ -5,13 +5,13 @@ Trabalho de Sistemas Distribuídos do Curso de Ciências da Computação(UERJ) -
 ### Como Executar
 
 
-    1. Funcionando somente em Linux e com o Python2</li>
+1. Funcionando somente em Linux e com o Python2</li>
 
-    2. Antes de executar o arquivo ".py", digite o seguinte comando no terminal Linux:
+2. Antes de executar o arquivo ".py", digite o seguinte comando no terminal Linux:
 
-    `export PYDFHOME={caminho onde esta o diretorio da sucuri }`
+   `export PYDFHOME={caminho onde esta o diretorio da sucuri }`
 
-    3. Para executar o arquivo ".py" digite o seguinte comando utilizando esta estrutura:
+3. Para executar o arquivo ".py" digite o seguinte comando utilizando esta estrutura:
     
-    `python {nome do arquivo ".py"}.py {número de workers desejado} {nome do arquivo ".txt" a ser lido}.txt`
+   `python {nome do arquivo ".py"}.py {número de workers desejado} {nome do arquivo ".txt" a ser lido}.txt`
 
